@@ -1,7 +1,23 @@
 # Hi, I'm Zihan🚀
 
-Nice to meet you.
+<p align="center">
+  The only thing I do is to build fast and beautiful things.
+</p>
 
-The only thing I do is to build fast and beautiful things.
+<br />
+<br />
+<br />
 
-[My blog](https://zihan.ga) | [My twitter](https://twitter.com/zihanch) | [My email](mailto:me@zihan.ga) | [My discord: zihan#4186](https://discord.com/) | [Buy me a coffee](https://ko-fi.com/zihanch)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zihan-ch&show_icons=true&locale=en&theme=graywhite" alt="zihan-ch" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihan-ch&layout=compact&theme=graywhite" alt="Top used language" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zihan-ch&hide_border=true&border_radius=5&theme=graywhite" alt="streak stats" />
+</div>
+
+<p align="center">
+  <a href="https://zihan.ga">My blog</a> | <a href="https://twitter.com/zihanch">My twitter</a> | <a href="mailto:me@zihan.ga">My email</a> | <a href="https://discord.com/">My discord: zihan#4186</a> | <a href="https://ko-fi.com/zihanch">Buy me a coffee</a>
+</p>
