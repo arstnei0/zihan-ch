@@ -19,5 +19,5 @@
 </div>
 
 <p align="center">
-  <a href="https://zihan.ga">My blog</a> | <a href="https://twitter.com/zihanch">My twitter</a> | <a href="mailto:me@zihan.ga">My email</a> | <a href="https://discord.com/">My discord: zihan#4186</a> | <a rel="me" href="https://mas.to/@zihan">Mastodon</a> | <a href="https://ko-fi.com/zihanch">Buy me a coffee</a>
+  <a href="https://zihan.ga">Blog</a> | <a href="https://twitter.com/zihanch">Twitter</a> | <a href="mailto:me@zihan.ga">Email</a> | <a href="https://discord.com/">Discord: zihan#4186</a> | <a rel="me" href="https://mas.to/@zihan">Mastodon</a> | <a href="https://ko-fi.com/zihanch">Buy me a coffee</a>
 </p>
