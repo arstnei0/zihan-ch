@@ -2,11 +2,8 @@
 
 <p align="center">
   The only thing I do is to build fast and beautiful things.
+  BTW, I don't waste my time on writing bio.
 </p>
-
-## About me
-
-I have no idea what to code; If you have any projects interesting, I hope I can join that.🤪
 
 <br />
 <br />
